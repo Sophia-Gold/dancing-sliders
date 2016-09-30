@@ -5,6 +5,6 @@ Uses [React.createFactory](https://facebook.github.io/react/blog/2014/10/14/intr
 
 **[Example here](http://sretaeper.ucoz.com/dancing-sliders/index.html)**
 
-**[Alternative diagonal version](http://sretaeper.ucoz.com/dancing-sliders/index_diagonal.html)**
+**[Alternate diagonal version](http://sretaeper.ucoz.com/dancing-sliders/index_diagonal.html)**
 
 *This is one in a series of experiments in using functional transformations to manipulate markup and other traditionally design based GUI elements to create decontextualized user experiences.*
