@@ -1,3 +1,20 @@
+body, html { 
+    overflow: hidden;
+    background-color: #000000;
+}    
+    
+div {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}   
+
+select {
+    background: #696969;
+    color: #00FF00;
+}
+
 input[type=range] {
     /*removes default webkit styles*/
     -webkit-appearance: none;
